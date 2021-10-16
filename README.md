@@ -13,3 +13,5 @@ git status
 ls
 
 git diff
+
+git clear
