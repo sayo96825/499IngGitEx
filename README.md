@@ -12,6 +12,8 @@ git add .
 
 git commit -m"commit message here"
 
+git push
+
 git status
 
 ls
