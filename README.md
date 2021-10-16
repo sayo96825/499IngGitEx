@@ -8,6 +8,8 @@ cd GitTutorial
 
 pwd
 
+git add .
+
 git status
 
 ls
