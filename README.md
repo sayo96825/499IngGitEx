@@ -1,1 +1,9 @@
-### please check repo A1 for the cosc 499 assginment
+### Git Tutorial
+
+git --version
+mkdir GitTutorial
+cd GitTutorial
+pwd
+git status
+ls
+
