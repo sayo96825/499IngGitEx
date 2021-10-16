@@ -15,3 +15,5 @@ ls
 git diff
 
 git clear
+
+git pull origin master
