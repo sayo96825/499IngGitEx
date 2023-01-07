@@ -1,26 +1,4 @@
 ### Git Tutorial
 
-git --version
+This is the respository to understand and practice the flow of github with mupltiple contributers. 
 
-mkdir GitTutorial
-
-cd GitTutorial
-
-pwd
-
-git add .
-
-git commit -m"commit message here"
-
-git push
-
-git status
-
-ls
-
-
-git diff
-
-git clear
-
-git pull origin master
